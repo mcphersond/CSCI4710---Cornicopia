@@ -1,0 +1,129 @@
+﻿body {
+    background-image: url('images/Cornucopia-Pic.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.main{
+    padding-top: 30px;
+    margin: auto;
+    width: 850px;
+    height: 975px;
+    //background-color: #4290FF;
+}
+.banner{
+    background-color: #FFFFFF;
+    margin: auto;
+    width: 700px;
+    height: 120px;
+    border: solid;
+}
+.menu{
+    line-height: 2px;
+    background-color: #4FFFD3;
+    margin: auto;
+    width: 149px;
+    height: 30px;
+    border-left: solid;
+    border-right: solid;
+    border-bottom: solid;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+.overMenu{
+    margin: auto;
+    width: 620px;
+    height: 33px;
+
+}
+.content{
+    background-color: #FFDE9E;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 815px;
+    height: 760px;
+    border: solid;
+}
+.orderImgsDiv{
+    float: left;
+    width: 115px;
+    height: 465px;
+    border: solid;
+}
+.orderImgs{
+    float: left;
+    margin: 5px;
+    border: solid;
+}
+.items{
+    float: right;
+    width: 650px;
+    height: 465px;
+    border: solid;
+}
+.imgTitle{
+    font-size: 20px;
+
+}
+.copyright{
+    margin-left: 10px;
+    font: bold;
+    font-size: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:  #FF9F82;
+}
+
+li a {
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    display: block;
+    color: black;
+    font-size: 20px;
+    height: 40px;
+    width: 149px;
+    line-height: 30px;
+    border-bottom: solid;
+    border-right: solid;
+    border-left: solid;
+}
+li a:hover {
+    background-color: #FFBEAF;
+    color: #808080;
+}
+.Button1 {
+    cursor: pointer;
+    margin-left: 35px;        
+    width: 106px;
+    height: 106px;
+    background-image: url('images/Chickfila.jpg');
+}
+.Button2 {
+    cursor: pointer;
+    margin-left: 35px;   
+    width: 106px;
+    height: 106px;
+    background-image: url('images/McDonalds.jpg');
+}
+.Button3 {
+    cursor: pointer;
+    margin-left: 35px;   
+    width: 106px;
+    height: 106px;
+    background-image: url('images/Moes.jpg');
+}
+.Button4 {
+    cursor: pointer;
+    margin-left: 35px;   
+    width: 106px;
+    height: 106px;
+    background-image: url('images/panera.png');
+}
